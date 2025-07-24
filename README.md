@@ -1,4 +1,4 @@
-**React Contact Manager**
+#**React Contact Manager**
 
 📌 Introduction
 
@@ -39,7 +39,7 @@ Open a separate terminal and run:
     npm start
 Opens the app in your default browser at http://localhost:3000
 
-**⚙️ Tech Stack**
+#**⚙️ Tech Stack**
 
 Frontend: React.js, Redux
 
